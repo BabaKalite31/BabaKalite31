@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1104412013666500630/1120600945454231604/4bc33df13a4df39ae4cb9655e4e1360c.png)
+![MasterHead](https://cdn.discordapp.com/attachments/857714065710776320/1119970198389280809/image.jpeg)
 <h1 align="center">Hi 👋, I'm BabaKalite31</h1>
 <h3 align="center">Basic Code Developer</h3>
 
