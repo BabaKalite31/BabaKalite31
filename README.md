@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm BabaKalite31</h1>
 <h3 align="center">Basic Code Developer</h3>
 
+<div align="center">
+    <a href="https://discord.com/users/1068994544458268783" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1068994544458268783"></a>
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/function checkResponseStatus#3027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="function checkResponseStatus#3027" height="30" width="40" /></a>
