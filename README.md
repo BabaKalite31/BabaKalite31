@@ -3,6 +3,10 @@
 <h3 align="center">Basic Code Developer</h3>
 
 <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=atahanyldz&color=32CD32"/>
+</div>
+
+<div align="center">
     <a href="https://discord.com/users/1068994544458268783" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1068994544458268783"></a>
 </div>
 
