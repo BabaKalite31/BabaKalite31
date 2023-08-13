@@ -3,7 +3,7 @@
 <h3 align="center">Basic Code Developer</h3>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=atahanyldz&color=32CD32"/>
+    <img src="https://komarev.com/ghpvc/?username=BabaKalite31&color=32CD32"/>
 </div>
 
 <div align="center">
