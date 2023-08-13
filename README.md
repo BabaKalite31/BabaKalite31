@@ -6,9 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=BabaKalite31&color=32CD32"/>
 </div>
 
-<div align="center">
-    <a href="https://discord.com/users/1068994544458268783" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1068994544458268783"></a>
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
